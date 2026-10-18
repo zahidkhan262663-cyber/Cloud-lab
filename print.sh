@@ -1,2 +1,2 @@
-"this is my first cloud computing class"
+echo "hello khan sahab"
 
