@@ -1,2 +1,3 @@
-echo "hello khan sahab"
+echo "hello khan sahab welcome to cloud computing class"
+
 
